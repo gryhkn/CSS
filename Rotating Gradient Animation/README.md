@@ -1,0 +1,1 @@
+![](https://github.com/gryhkn/CSS/blob/master/Rotating%20Gradient%20Animation/animation.gif)
