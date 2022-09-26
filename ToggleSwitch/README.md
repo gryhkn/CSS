@@ -1,0 +1,1 @@
+![](https://github.com/gryhkn/CSS/blob/a29546b8f30387e677415f7d9d69853cfcf957b7/ToggleSwitch/animation.gif)
