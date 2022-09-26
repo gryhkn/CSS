@@ -1,1 +1,1 @@
-![](https://github.com/gryhkn/CSS/blob/a29546b8f30387e677415f7d9d69853cfcf957b7/ToggleSwitch/animation.gif)
+![](https://github.com/gryhkn/CSS/blob/d0863f2f3bd838ce8ec7fb453259cd5bde0c5580/ToggleSwitch/animation1.gif)
